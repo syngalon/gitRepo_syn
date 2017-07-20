@@ -1,0 +1,9 @@
+Test for remote.
+dev add.
+syngalon add this line.
+mantis add this line.
+syngalon add the second line.
+mantis add the second line.
+syngalon add the third line.
+syngalon add the fourth line.
+syngalon add the fifth line.
